@@ -1,5 +1,8 @@
 # Rule Engine with AST
 
+![image](https://github.com/user-attachments/assets/1fc03d20-8c90-4cd1-917d-142c248012ec)
+
+
 A **Rule Engine** designed to dynamically create, combine, and evaluate rules using **Abstract Syntax Trees (AST)**. This project enables efficient rule creation with conditions based on user attributes, combines multiple rules, and evaluates them through an intuitive UI and backend APIs.
 
 ---
